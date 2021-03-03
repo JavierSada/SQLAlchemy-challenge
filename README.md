@@ -1,2 +1,3 @@
-# SQLAlchemy-challenge
-Advance SQL &amp; SQL Application Building
+# SQLAlchemy Challenge :mage:
+
+Advance SQL & SQL Application Building
